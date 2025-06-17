@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
+=======
+  "name": "carrchat",
+  "private": true,
+>>>>>>> c6f6c0e (startup carr chat 20/05/24)
   "sideEffects": false,
   "type": "module",
   "scripts": {
